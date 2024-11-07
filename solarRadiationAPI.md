@@ -28,3 +28,5 @@ Solar Radiation API (https://openweathermap.org/api/solar-radiation) は、特�
   - 日照量や影の予測をもとに、日陰が多い快適な経路を設計するアプリケーションで活用されます。
 
   by chatGPT調べ
+
+  # しかし有料...
